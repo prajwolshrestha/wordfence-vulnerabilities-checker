@@ -1,0 +1,24 @@
+# WordPress Plugin Slugs to Check
+# Add one plugin slug per line
+# Lines starting with # are comments and will be ignored
+
+contact-form-7
+elementor
+elementor-pro
+elementskit-lite
+seo-by-rank-math
+seo-by-rank-math-pro
+siteground-optimizer
+updraftplus
+wp-crontrol
+advanced-cf7-db
+advanced-custom-fields
+better-search-replace
+multiple-roles
+rich-reviews-by-starfish
+simple-history
+wordfence
+duplicate-page
+simple-cloudflare-turnstile
+w3-total-cache
+wps-hide-login
